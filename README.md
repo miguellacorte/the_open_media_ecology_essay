@@ -4,7 +4,7 @@ This repository presents Open Media Ecologies (OMEs) as a form of reference, ref
 
 You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the "Composing participation" compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies
 
----
+--
 
 ## **Defining Open Media ecologies**
 
