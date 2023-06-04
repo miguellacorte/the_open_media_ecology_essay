@@ -44,8 +44,7 @@ As a form of example and test, this repository presents itself as a proto-open m
 
 **Notes and References:**
 
-<a id="1">[1] </a>  
-Eco, U. (1989). The open work. Harvard University Press. 
+<a id="1">[1] </a>Eco, U. (1989). The open work. Harvard University Press. 
 
 
 2. The open work by Umberto Eco
