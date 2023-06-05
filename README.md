@@ -1,4 +1,4 @@
-# Open Media Ecologies: networks of adaptation. 
+# Open Media Ecologies: networks of and for cultural adaptation. 
 
 This repository presents Open Media Ecologies (OMEs) as a form of reference, reflection and ignition towards the development of new sustainable media structures in the anthropocene.
 
