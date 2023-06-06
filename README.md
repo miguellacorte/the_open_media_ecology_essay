@@ -47,8 +47,7 @@ As a form of example and test, this repository presents itself as a proto-open m
 
 **Notes and References:**
 
-<small>
-[1] Eco, U. (1989). *The open work*. Harvard University Press. 
+<sup><sub>[1] Eco, U. (1989). *The open work*. Harvard University Press. 
 
 [2] Open source distribution infrastructure refers directly to Stallman's free software: the public has open access to share, modify, edit, and study the work. It is important to note that the potential of the public to freely modify the distribution structure remains also openly receptive of the artist's right to create a revenue structure from their artwork.
 
@@ -106,8 +105,8 @@ According to Ashby, if the regulating system has less variety than the system it
 [18] Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
 
-Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
-    <small/>
+Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.<sup><sub>
+    
 ---
 
 ## **Writing Extensions**
