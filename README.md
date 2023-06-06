@@ -45,65 +45,60 @@ As a form of example and test, this repository presents itself as a proto-open m
 
 ---
 
-<small>
-[1] Eco, U. (1989). The open work. Harvard University Press.
 
-[2] Open source distribution infrastructure refers directly to Stallman's free software: the public has open access to share, modify, edit, and study the work. It is important to note that the potential of the public to freely modify the distribution structure remains also openly receptive of the artists' right to create a revenue structure from their artwork.
+**Notes and References:**
 
-[3] Castells, M. (2005). Innovation, information technology, and the culture of freedom: The political economy of open source. Presentation at the 2005 World Social Forum meeting, Porto Alegre, Brazil. Retrieved February 2, 2006, from http://www.openflows.org/article.pl?sid=05/01/31/2028221
+<a id="1">[1]</a> Eco, U. (1989). The open work. Harvard University Press.
+
+<a id="2">[2]</a> Open source distribution infrastructure refers directly to Stallman's free software: the public has open access to share, modify, edit and study the work. It is important to note that the potential of the public to freely modify the distribution structure remains also openly receptive of the artists right to create a revenue structure from their artwork.
+
+<a id="3">[3]</a>
+Castells, M. (2005). Innovation, information technology, and the culture of freedom: The political economy of open source. Presentation at the 2005 World Social Forum meeting, Porto Alegre, Brazil. Retrieved February 2, 2006, from http://www.openflows.org/article.pl?sid=05/01/31/2028221
 
 In this conference Castells points out that open source refers to a “form of social organization of production” that “works as an open network of voluntary cooperation.” He points out four challenges in the open source concept: (a) the motivation of the volunteers taking part in the process, (b) the economic logic that departs from conventional market logic, (c) the coordination of hundreds of volunteers without a hierarchical organization, and (d) the management of the complexity.
 
-[4] Buytaert, D. (n.d.). The Privilege of Free Time in Open Source. Retrieved from https://dri.es/the-privilege-of-free-time-in-open-source
-"Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, 'everyone can contribute to open source', we should be thinking, 'everyone deserves the opportunity to contribute'.
+<a id="4">[4]</a> Buytaert, D. (n.d.). The Privilege of Free Time in Open Source. Retrieved from https://dri.es/the-privilege-of-free-time-in-open-source
+"Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, "everyone can contribute to open source", we should be thinking, "everyone deserves the opportunity to contribute".
 
-Time inequality contributes to a lack of diversity in Open Source
-This fallacy of 'free time' makes Open Source communities suffer from a lack of diversity. The demographics are even worse than the technology industry overall: while 22.6% of professional computer programmers in the workforce identify as women (Bureau of Labor Statistics), less than 5% of contributors do in Open Source (GitHub). And while 34% of programmers identify as ethnic or national minorities (Bureau of Labor Statistics), only 16% do in Open Source (GitHub)."
+Time inequality contributes to a lack of diversity in Open Source. This fallacy of "free time" makes Open Source communities suffer from a lack of diversity. The demographics are even worse than the technology industry overall: while 22.6% of professional computer programmers in the workforce identify as women (Bureau of Labor Statistics), less than 5% of contributors do in Open Source (GitHub). And while 34% of programmers identify as ethnic or national minorities (Bureau of Labor Statistics), only 16% do in Open Source (GitHub)."
 
-Equal opportunity is a utopia within societies dominated by competitive markets; Following Castell's definition of common open source challenges in reference [3], adapting against meritocracy and creating systematic efforts for opportunities is a central problem to open source infrastructure. Failure to achieve this can convert the open source infrastructure into its counterpart: a closed media ecology where decisions are centrally conceived.
+Equal opportunity is a utopia within societies dominated by competitive markets; Following Castell's definition of common open source challenges in reference #3, adapting against meritocracy and creating systematic efforts for opportunities is a central problem to open source infrastructure. Failure to achieve this can convert the open source infrastructure into its counterpart: a closed media ecology where decisions are centrally conceived.
 
-[5] P. A. Gray et al., “Strategies for Coping with the Wicked Problem of Climate Change,” in The Future of Heritage as Climates Change: Loss, Adaptation and Creativity, eds. David Harvey and Jim Perry (New York: Routledge, 2015), 186: “An organization’s adaptive capacity results from a unique combination of values and principles, institutional culture and function, commitment to public engagement, financial and human assets, acquisition and use of information, know-how and a mandate for decision-making”
+<a id="5">[5]</a> P. A. Gray et al., “Strategies for Coping with the Wicked Problem of Climate Change,” in The Future of Heritage as Climates Change: Loss, Adaptation and Creativity, eds. David Harvey and Jim Perry (New York: Routledge, 2015), 186: “An organization’s adaptive capacity results from a unique combination of values and principles, institutional culture and function, commitment to public engagement, financial and human assets, acquisition and use of information, know-how and a mandate for decision-making.”
 
-[6] Yuill, Simon. (2008). All Problems of Notation Will be Solved by the Masses: Free Open Form Performance, Free/Libre Open Source Software, and Distributive Practice.
+<a id="6">[6]</a> Yuill, Simon. (2008). All Problems of Notation Will be Solved by the Masses: Free Open Form Performance, Free/Libre Open Source Software, and Distributive Practice.
 
-[7] Ibid.
+<a id="7">[7]</a> Ibid.
 
-"Commercial software production is acquisitive in that firstly it acquires the labor of others, that is then sealed under employment contracts and copyright, and secondly demands that it is consumed as an acquisition whose disposition is similarly restricted. Copyright became significant to the emergence of commercial software as it is the application of copyright, used in its conventional restrictive sense, that is used to define the code as a fixed product. Free Software, in contrast, emphasizes the code as something that enters into a continuum of production."
+"Commercial software production is acquisitive in that firstly it acquires the labour of others, that is then sealed under employment contracts and copyright, and secondly demands that it is consumed as an acquisition whose disposition is similarly restricted. Copyright became significant to the emergence of commercial software as it is the application of copyright, used in its conventional restrictive sense, that is used to define the code as a fixed product. Free Software, in contrast, emphasizes the code as something that enters into a continuum of production."
 
-[8] Kleiner, D., & Wyrick, B. (n.d.). InfoEnclosure 2.0. Mute, 2(4). Retrieved from http://www.metamute.org/en/InfoEnclosure-2.0
+<a id="8">[8]</a> Kleiner, D., & Wyrick, B. (n.d.). InfoEnclosure 2.0. Mute, 2(4). Retrieved from http://www.metamute.org/en/InfoEnclosure-2.0
 
-[9] Adorno, T. W. (1991). The culture industry: Enlightenment as mass deception. In D. Held (Ed.), The cultural studies reader (pp. 31-41). Routledge.
+<a id="9">[9]</a> Adorno, T. W. (1991). The culture industry: Enlightenment as mass deception. In D. Held (Ed.), The cultural studies reader (pp. 31-41). Routledge.
 
-[10] Lessig, L. (2004). Free culture. Penguin Books. (xiv preface): “The opposite of a free culture is a ‘permission culture’. A culture in which creators get to create only with the permission of the powerful, or of creators from the past.”
+<a id="10">[10]</a> Lessig, L. (2004). Free culture. Penguin Books. (xiv preface): “The opposite of a free culture is a ‘permission culture.’ A culture in which creators get to create only with the permission of the powerful, or of creators from the past.”
 
-[11] Manovich Lev. 2001. The Language of New Media. Cambridge Mass: MIT Press.
-The more likely reason why modern media has discrete levels is because it emerges during Industrial Revolution. In the nineteenth century, a new organization of production known as the factory system gradually replaced artisan labor. It reached its classical form when Henry Ford installed the first assembly line in his factory in 1913. The assembly line relied on two principles. The first was standardization of parts, already employed in the production of military uniforms in the nineteenth century. The second, newer principle, was the separation of the production process into a set of repetitive, sequential, and simple activities that could be executed by workers who did not have to master the entire process and could be easily replaced. Not surprisingly, modern media follows the factory logic, not only in terms of division of labor as witnessed in Hollywood film studios, animation studios, or television production but also on the level of its material organization.”
+<a id="11">[11]</a> Manovich Lev. 2001. The Language of New Media. Cambridge Mass: MIT Press.
+The more likely reason why modern media has discrete levels is because it emerges during Industrial Revolution. In the nineteenth century, a new organization of production known as the factory system gradually replaced artisan labor. It reached its classical form when Henry Ford installed the first assembly line in his factory in 1913. The assembly line relied on two principles. The first was the standardization of parts, already employed in the production of military uniforms in the nineteenth century. The second, the never principle, was the separation of the production process into a set of repetitive, sequential, and simple activities that could be executed by workers who did not have to master the entire process and could be easily replaced. Not surprisingly, modern media follows the factory logic, not only in terms of the division of labor as witnessed in Hollywood film studios, animation studios, or television production, but also on the level of its material organization.”
 
-[12] (n.d.). Brian Eno: Composers as Gardeners. Edge.org. Sunday, October 16, 2011. The Serpentine Gallery Garden Marathon, organized by Hans Ulrich Obrist. Within his lecture, Brian Eno stated:
+<a id="12">[12]</a> (n.d.). Brian Eno: Composers as Gardeners. Edge.org. Sunday, October 16, 2011. The Serpentine Gallery Garden Marathon, organized by Hans Ulrich Obrist. Within his lecture, Brian Eno stated:
 "we have to stop thinking of top-down control as being the only way in which things could be made"
 
-[13] Bauman, Z. (n.d.). Zygmunt Bauman: 'No one is in control. That is the major source of contemporary fear' [Video]. YouTube. Retrieved June 4, 2023, from https://www.youtube.com/watch?v=73Nmv-4jvSc
+<a id="13">[13]</a> Bauman, Z. (n.d.). Zygmunt Bauman: 'No one is in control. That is the major source of contemporary fear' [Video]. YouTube. Retrieved June 4, 2023, from https://www.youtube.com/watch?v=3RWwZqUqVU4
 
-[14] Moholy-Nagy, L. (1922) “Produktion—Reproduktion,” De Stijl 5, No. 7, 98--100 (1922)
-
-“The objective of the artistic use of the media, in other words, should be to produce an extension and a refinement of the capacities of perception and the consciousness of the modern individual, in order to put him in a position where he can apprehend the products of social labour in their entire scope and in their entirety.”
-
-[15] U. Eco, The Open Work (Harvard University Press, 1989), 4.
+<a id="14">[14]</a> Verstockt, S., & De Moor, A. (2016). Recreating Commoning. Design for a Postcapitalist Society. Making and Breaking: The Grid: a Graphic Design Discourse. Presented at the 10th Design History Society Conference: Making and Breaking the Grid, Aalto University, Helsinki, Finland.
 
 
-
-[15] Ashby, W. R. (1952). *Design for a Brain: The Origin of Adaptive Behavior*. Chapman & Hall. The Law of Requisite Variety states that in order for a control system to effectively manage and regulate a complex system, it must possess at least as much variety as the system it is trying to control. In other words, a system that seeks to govern or influence another system must be able to handle the same or a greater amount of complexity and diversity that exists within the target system.
+<a id="15">[15]</a>Ashby, W. R. (1952). *Design for a Brain: The Origin of Adaptive Behavior*. Chapman & Hall. The Law of Requisite Variety states that in order for a control system to effectively manage and regulate a complex system, it must possess at least as much variety as the system it is trying to control. In other words, a system that seeks to govern or influence another system must be able to handle the same or a greater amount of complexity and diversity that exists within the target system.
 
 According to Ashby, if the regulating system has less variety than the system it is attempting to control, it will be overwhelmed and unable to effectively manage the system's behavior. Conversely, if the regulating system has greater variety than the system it is controlling, it will have the capacity to handle and adapt to the system's complexity.
-
-[16] Beck, U. (1992). *Risk society: Towards a new modernity*. Sage.
-
-[17] Participation is risky.
-
-[18] Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
+    
+<a id="16">[16]</a> Beck, U. (1992). *Risk society: Towards a new modernity*. Sage.
+<a id="17">[17]</a> Participation is risky.
+<a id="18">[18]</a> Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
 
-</small>
+
 
 <sup><sub>Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.<sup><sub>
     
