@@ -103,7 +103,7 @@ According to Ashby, if the regulating system has less variety than the system it
 ## **Writing Extensions**
 
 - [Participative Audio Lab vision: harvesting a culture of open creation through music.]
-- [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise to building anything. Wether it's an art project or a open source community, e describes the importance of creating systems which have been designed for adaptability wthn ts respective environments. 
+- [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise any project. Wether it's an art project or a open source community, he describes the importance of creating systems which have been designed for a potential of adaptability within ts respective environments. 
 
 ---
 
