@@ -39,7 +39,7 @@ Being with the unknown is hence, being by surrendering, or rather, being by *not
 
 It is at this moment, that a culture of open creation is born. When the seeds of cultural surrendering begin to exist parallel to the seeds of cultural control, we can begin to harvest an open society. 
 
----
+** * **
 
 Open media ecologies come with a heightened degree of responsibility. The potential for cultural development offered by OMEs is directly tied to assuming greater responsibility in media maintenance, addressing the basic needs of public participants, and ensuring the economic sustainability of freely available projects. Therefore, the question is not whether OMEs can exist, but rather: 
 
@@ -123,7 +123,7 @@ Please note that the above references are for informational purposes and to prov
 
 ## **Composing participation: tools, methods and processes.**
 
-This repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own: 
+This repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
 
 - [MAP-it](http://www.map-it.be/about): created by [Social Spaces research group](http://www.socialspaces.be/) “ MAP-it is a tool for participatory cartography and conversation. It's a low-tech mapping tool that allows you to debrief past projects, manage current ones and plan future activities.”
 - [Create an Architecture of Participation for your Open Source project](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5): A practical look into the development process of Greenpeace’s “Plant 4” online architecture of participation.
