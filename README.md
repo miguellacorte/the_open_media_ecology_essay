@@ -54,14 +54,12 @@ As a form of example and test, this repository presents itself as a proto-open m
 
 <a id="1">[1]</a> Eco, U. (1989). The open work. Harvard University Press.
 
-<a id="2">[2]</a> Open source distribution infrastructure refers directly to Stallman's free software: the public has open access to share, modify, edit and study the work. It is important to note that the potential of the public to freely modify the distribution structure remains also openly receptive of the artists right to create a revenue structure from their artwork.
+<a id="2">[2]</a> Stallman, R. M. (n.d.). [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html) Open source distribution infrastructure refers directly to Stallman's free software: the public has open access to share, modify, edit and study the work. It is important to note that the potential of the public to freely modify the distribution structure remains also openly receptive of the artists right to create a revenue structure from their artwork.
 
-<a id="3">[3]</a>
-Castells, M. (2005). Innovation, information technology, and the culture of freedom: The political economy of open source. Presentation at the 2005 World Social Forum meeting, Porto Alegre, Brazil. Retrieved February 2, 2006, from http://www.openflows.org/article.pl?sid=05/01/31/2028221
-
+<a id="3">[3]</a>Castells, M. (2005). Innovation, information technology, and the culture of freedom: [The political economy of open source.](http://www.openflows.org/article.pl?sid=05/01/31/2028221) Presentation at the 2005 World Social Forum meeting, Porto Alegre, Brazil. February 2, 2006. 
 In this conference Castells points out that open source refers to a “form of social organization of production” that “works as an open network of voluntary cooperation.” He points out four challenges in the open source concept: (a) the motivation of the volunteers taking part in the process, (b) the economic logic that departs from conventional market logic, (c) the coordination of hundreds of volunteers without a hierarchical organization, and (d) the management of the complexity.
 
-<a id="4">[4]</a> Buytaert, D. (n.d.). The Privilege of Free Time in Open Source. Retrieved from https://dri.es/the-privilege-of-free-time-in-open-source
+<a id="4">[4]</a> Buytaert, D. (n.d.). [The Privilege of Free Time in Open Source.](https://dri.es/the-privilege-of-free-time-in-open-source)
 "Free time is a mark of privilege, rather than an equal right. Instead of chasing an unrealistic concept of meritocracy, we should be striving for equity. Rather than thinking, "everyone can contribute to open source", we should be thinking, "everyone deserves the opportunity to contribute".
 
 Time inequality contributes to a lack of diversity in Open Source. This fallacy of "free time" makes Open Source communities suffer from a lack of diversity. The demographics are even worse than the technology industry overall: while 22.6% of professional computer programmers in the workforce identify as women (Bureau of Labor Statistics), less than 5% of contributors do in Open Source (GitHub). And while 34% of programmers identify as ethnic or national minorities (Bureau of Labor Statistics), only 16% do in Open Source (GitHub)."
@@ -76,7 +74,7 @@ Equal opportunity is a utopia within societies dominated by competitive markets;
 
 "Commercial software production is acquisitive in that firstly it acquires the labour of others, that is then sealed under employment contracts and copyright, and secondly demands that it is consumed as an acquisition whose disposition is similarly restricted. Copyright became significant to the emergence of commercial software as it is the application of copyright, used in its conventional restrictive sense, that is used to define the code as a fixed product. Free Software, in contrast, emphasizes the code as something that enters into a continuum of production."
 
-<a id="8">[8]</a> Kleiner, D., & Wyrick, B. (n.d.). InfoEnclosure 2.0. Mute, 2(4). Retrieved from http://www.metamute.org/en/InfoEnclosure-2.0
+<a id="8">[8]</a> Kleiner, D., & Wyrick, B. (n.d.). [InfoEnclosure 2.0. Mute, 2(4).](http://www.metamute.org/en/InfoEnclosure-2.0)
 
 <a id="9">[9]</a> Adorno, T. W. (1991). The culture industry: Enlightenment as mass deception. In D. Held (Ed.), The cultural studies reader (pp. 31-41). Routledge.
 
@@ -88,7 +86,7 @@ The more likely reason why modern media has discrete levels is because it emerge
 <a id="12">[12]</a> (n.d.). Brian Eno: Composers as Gardeners. Edge.org. Sunday, October 16, 2011. The Serpentine Gallery Garden Marathon, organized by Hans Ulrich Obrist. Within his lecture, Brian Eno stated:
 "we have to stop thinking of top-down control as being the only way in which things could be made"
 
-<a id="13">[13]</a> Bauman, Z. (n.d.). Zygmunt Bauman: 'No one is in control. That is the major source of contemporary fear' [Video]. YouTube. Retrieved June 4, 2023, from https://www.youtube.com/watch?v=3RWwZqUqVU4
+<a id="13">[13]</a> Bauman, Z. (n.d.). Zygmunt Bauman: 'No one is in control. That is the major source of contemporary fear' [Video](https://www.youtube.com/watch?v=3RWwZqUqVU4)
 
 <a id="14">[14]</a> Verstockt, S., & De Moor, A. (2016). Recreating Commoning. Design for a Postcapitalist Society. Making and Breaking: The Grid: a Graphic Design Discourse. Presented at the 10th Design History Society Conference: Making and Breaking the Grid, Aalto University, Helsinki, Finland.
 
