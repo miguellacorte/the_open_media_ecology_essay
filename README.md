@@ -88,15 +88,20 @@ The more likely reason why modern media has discrete levels is because it emerge
 
 <a id="13">[13]</a> Bauman, Z. (n.d.). Zygmunt Bauman: 'No one is in control. That is the major source of contemporary fear' [Video](https://www.youtube.com/watch?v=3RWwZqUqVU4)
 
+<a id="14">[14]</a>[14] Moholy-Nagy, L. (1922) “Produktion—Reproduktion,” De Stijl 5, No. 7, 98--100 (1922)
+
+“The objective of the artistic use of the media, in other words, should be to produce an extension and a refinement of the capacities of perception and the consciousness of the modern individual, in order to put him in a position where he can apprehend the products of social labour in their entire scope and in their entirety.”
+
 <a id="14">[14]</a> Verstockt, S., & De Moor, A. (2016). Recreating Commoning. Design for a Postcapitalist Society. Making and Breaking: The Grid: a Graphic Design Discourse. Presented at the 10th Design History Society Conference: Making and Breaking the Grid, Aalto University, Helsinki, Finland.
 
 <a id="15">[15]</a>Ashby, W. R. (1952). *Design for a Brain: The Origin of Adaptive Behavior*. Chapman & Hall. The Law of Requisite Variety states that in order for a control system to effectively manage and regulate a complex system, it must possess at least as much variety as the system it is trying to control. In other words, a system that seeks to govern or influence another system must be able to handle the same or a greater amount of complexity and diversity that exists within the target system.
 
 According to Ashby, if the regulating system has less variety than the system it is attempting to control, it will be overwhelmed and unable to effectively manage the system's behavior. Conversely, if the regulating system has greater variety than the system it is controlling, it will have the capacity to handle and adapt to the system's complexity.
     
-<a id="16">[16]</a> Beck, U. (1992). *Risk society: Towards a new modernity*. Sage.
+<a id="16">[16]</a> Beck, U. (1992). Risk society: Towards a new modernity. Sage.
 
-<a id="17">[17]</a> Participation is risky.
+<a id="17">[17]</a> Huybrechts, L. (2014) Participation is risky.
+*"Participatory projects are in essence always uncertain. They rely heavily on the input from other participants. This contrasts witht he makers' urge to control the participatory process and its outcome"*
 
 <a id="18">[18]</a> Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
@@ -111,7 +116,7 @@ Please note that the above references are for informational purposes and to prov
 
 ## **Writing Extensions**
 
-- [Participative Audio Lab vision: harvesting a culture of open creation through music.]
+- [Participative Audio Lab vision: harvesting a culture of open creation through music.](https://www.participativeaudiolab.com/) 
 - [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise any project. Wether it's an art project or a open source community, he describes the importance of creating systems which have been designed for a potential of adaptability within ts respective environments. 
 
 ---
@@ -122,7 +127,8 @@ This repository aims to serve as a public compilation of methods and tools for h
 
 - [MAP-it](http://www.map-it.be/about): created by [Social Spaces research group](http://www.socialspaces.be/) “ MAP-it is a tool for participatory cartography and conversation. It's a low-tech mapping tool that allows you to debrief past projects, manage current ones and plan future activities.”
 - [Create an Architecture of Participation for your Open Source project](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5): A practical look into the development process of Greenpeace’s “Plant 4” online architecture of participation.
-- 
+- Open Source Guides | [Learn how to launch and grow your project.](https://opensource.guide/)
+
 
 ---
 
