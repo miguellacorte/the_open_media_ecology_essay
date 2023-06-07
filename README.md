@@ -29,7 +29,7 @@ Our modern society and its current cultural landscape demands now more than ever
 
 The new media ecology is thus, one, where the trench between the artist and the audience is narrowed, and the creative process is shared and distributed. In turn, the public ignites a heightened sense of perception[[14]](#14) towards its environments and its involving ethical responsibilities, maintenance structures and labour systems commonly deceived in the creation of culture. Following the law of requisite variety[[15]](#15), our potential for creation and imagination is directly proportional to the way we envision and treat our environments.
 
-In a society where risk and uncertainty have become a economical product but also a prominent defining element of our modernity[[16]](#16), OMEs presents itself as a structure that can systematically generate a new cultural attitude beyond the adversity of risk, thus trespassing the cultural limits implied by the industrial thinking structures. The participative models which structurally define a OME are naturally bound to embrace risk and uncertainty[[17]](#17). In other words, we are moving into an open model which actively invites the unknown person to the unknown experience, instead of inviting the unknown person to the known experience.
+In a society where risk and uncertainty have become a economical product but also a prominent defining element of our modernity[[16]](#16), OMEs presents itself as a structure that can systematically generate a new cultural attitude within the adversity of risk, thus trespassing the cultural limits implied by the industrial thinking structures. We can thus understand OMEs as "risk cultures"[[19]](#19) ; The participative models which structurally define a OME are naturally bound to embrace risk and uncertainty[[17]](#17). In other words, we are moving into an open model which actively invites the unknown person to the unknown experience, instead of inviting the unknown person to the known experience.
 
 Being with the unknown is hence, being by surrendering, or rather, being by not controlling.
 
@@ -88,19 +88,22 @@ The more likely reason why modern media has discrete levels is because it emerge
 
 <a id="14">[14]</a> Verstockt, S., & De Moor, A. (2016). Recreating Commoning. Design for a Postcapitalist Society. Making and Breaking: The Grid: a Graphic Design Discourse. Presented at the 10th Design History Society Conference: Making and Breaking the Grid, Aalto University, Helsinki, Finland.
 
-
 <a id="15">[15]</a>Ashby, W. R. (1952). *Design for a Brain: The Origin of Adaptive Behavior*. Chapman & Hall. The Law of Requisite Variety states that in order for a control system to effectively manage and regulate a complex system, it must possess at least as much variety as the system it is trying to control. In other words, a system that seeks to govern or influence another system must be able to handle the same or a greater amount of complexity and diversity that exists within the target system.
 
 According to Ashby, if the regulating system has less variety than the system it is attempting to control, it will be overwhelmed and unable to effectively manage the system's behavior. Conversely, if the regulating system has greater variety than the system it is controlling, it will have the capacity to handle and adapt to the system's complexity.
     
 <a id="16">[16]</a> Beck, U. (1992). *Risk society: Towards a new modernity*. Sage.
+
 <a id="17">[17]</a> Participation is risky.
+
 <a id="18">[18]</a> Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
 
+<a id="19">[19]</a> Lash, Scott (2000). Risk culture. In Barbara Adam, Ulrich Beck & Joost van Loon (eds.), The Risk Society and Beyond: Critical Issues for Social Theory. Sage Publications. pp. 47--62. 
+*"Risk Cultures deal with risk, with identity-risks and ecological-risks, not so much through rational calculation or normative subsumption, but through symbolic practices and especially through symbol innovation"*
 
 
-<sup><sub>Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.<sup><sub>
+Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
     
 ---
 
