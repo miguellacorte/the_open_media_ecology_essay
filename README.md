@@ -19,7 +19,7 @@ It is thus of core importance for the integrity of the OME that these two qualit
 
 
 
-## **Presenting Open Media Ecologies in the age of closed-control creative attention **
+## Presenting Open Media Ecologies in the age of closed-control creative attention 
 
 OME’s stand in contrast to the currently dominating culture industry [[9]](#9) or closed media ecologies [[10]](#10) which have been designed to prioritise (mostly through industrial methods) massively accessible experiences of commodified attention over intimate and nuanced experiences. In other terms, the industrial logic [[11]](#11)(citar lev manovich) from a closed media ecology defines the potential of public participation purely on a quantitative measure, thus omitting participation in a qualitative level. The economical nature of closed media ecologies has thus systematically converted the public receiving entity into an object of passivity rather than a subject of creation.  This has created a century-long deficient pattern where the public has become increasingly alienated from the the ethical responsibilities involved in the act of creation, and to a more damaging degree, society has created a deficient understanding of what and how we can create[[12]](#12).  
 
@@ -29,9 +29,13 @@ Our modern society and its current cultural landscape demands now more than ever
 
 The new media ecology is thus, one, where the trench between the artist and the audience is narrowed, and the creative process is shared and distributed. In turn, the public ignites a heightened sense of perception[[14]](#14) towards its environments and its involving ethical responsibilities, maintenance structures and labour systems commonly deceived in the creation of culture. Following the law of requisite variety[[15]](#15), our potential for creation and imagination is directly proportional to the way we envision and treat our environments.
 
-In a society where risk and uncertainty have become a economical product but also a prominent defining element of our modernity[[16]](#16), OMEs presents itself as a structure that can systematically generate a new cultural attitude within the adversity of risk, thus trespassing the cultural limits implied by the industrial thinking structures. We can thus understand OMEs as "risk cultures"[[19]](#19) ; The participative models which structurally define a OME are naturally bound to embrace risk and uncertainty[[17]](#17). In other words, we are moving into an open model which actively invites the unknown person to the unknown experience, instead of inviting the unknown person to the known experience.
+In a society where risk and uncertainty have become a economical product but also a prominent defining element of our modernity[[16]](#16), OMEs presents itself as a structure that can systematically generate a new cultural attitude within the adversity of risk, thus trespassing the cultural limits implied by the industrial thinking structures. We can thus understand OMEs as "risk cultures"[[19]](#19) ; The participative models which structurally define a OME are naturally bound to embrace risk and uncertainty[[17]](#17). 
 
-Being with the unknown is hence, being by surrendering, or rather, being by not controlling.
+*"Risk Cultures deal with risk, with identity-risks and ecological-risks, not so much through rational calculation or normative subsumption, but through symbolic practices and especially through symbol innovation"*[[19]](#19)
+
+It is thorugh this systematic distribution of openly-uncertain experiences where OMEs take effect; Culture shifts into an open model which actively invites the unknown person to the unknown experience, instead of inviting the unknown person to the known experience.
+
+Being with the unknown is hence, being by surrendering, or rather, being by *not controlling.*
 
 It is at this moment, that a culture of open creation is born. When the seeds of cultural surrendering begin to exist parallel to the seeds of cultural control, we can begin to harvest an open society. 
 
@@ -100,7 +104,7 @@ According to Ashby, if the regulating system has less variety than the system it
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
 
 <a id="19">[19]</a> Lash, Scott (2000). Risk culture. In Barbara Adam, Ulrich Beck & Joost van Loon (eds.), The Risk Society and Beyond: Critical Issues for Social Theory. Sage Publications. pp. 47--62. 
-*"Risk Cultures deal with risk, with identity-risks and ecological-risks, not so much through rational calculation or normative subsumption, but through symbolic practices and especially through symbol innovation"*
+
 
 
 Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
