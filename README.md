@@ -39,7 +39,7 @@ Being with the unknown is hence, being by surrendering, or rather, being by *not
 
 It is at this moment, that a culture of open creation is born. When the seeds of cultural surrendering begin to exist parallel to the seeds of cultural control, we can begin to harvest an open society. 
 
-![OMEs](https://github.com/miguellacorte/the_open_media_ecology_essay/blob/5ec02329ccc504ee8b3b66db356cd0a4adf127c8/OME.png)
+![OMEs](https://github.com/miguellacorte/the_open_media_ecology_essay/blob/1591f673575d565af156ffd2a4a924bb9f17a799/OME.png)
 
 **Building Open Media Ecologies:**
 
