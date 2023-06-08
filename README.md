@@ -2,7 +2,7 @@
 
 This repository presents Open Media Ecologies (OMEs) as a form of reference, reflection and ignition towards the development of new sustainable media structures in the anthropocene.
 
-You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the "Composing participation" compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies
+You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies
 
 ## **Defining Open Media ecologies**
 
@@ -121,9 +121,9 @@ Please note that the above references are for informational purposes and to prov
 
 ---
 
-<a id="cp"> ## **[Composing participation: tools, methods and processes.]**</a>
+ ## **Composing participation: tools, methods and processes.**
 
-This repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
+<a id="cp">[This section]</a> of the repository repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
 
 - [MAP-it](http://www.map-it.be/about): created by [Social Spaces research group](http://www.socialspaces.be/) “ MAP-it is a tool for participatory cartography and conversation. It's a low-tech mapping tool that allows you to debrief past projects, manage current ones and plan future activities.”
 - [Create an Architecture of Participation for your Open Source project](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5): A practical look into the development process of Greenpeace’s “Plant 4” online architecture of participation.
