@@ -121,7 +121,7 @@ Please note that the above references are for informational purposes and to prov
 
 ---
 
-<a id="cp"> [## **Composing participation: tools, methods and processes.**]</a>
+<a id="cp"> ## **[Composing participation: tools, methods and processes.]**</a>
 
 This repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
 
