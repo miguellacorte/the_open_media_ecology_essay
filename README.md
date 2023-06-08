@@ -39,6 +39,8 @@ Being with the unknown is hence, being by surrendering, or rather, being by *not
 
 It is at this moment, that a culture of open creation is born. When the seeds of cultural surrendering begin to exist parallel to the seeds of cultural control, we can begin to harvest an open society. 
 
+![OMEs](https://github.com/miguellacorte/the_open_media_ecology_essay/blob/5ec02329ccc504ee8b3b66db356cd0a4adf127c8/OME.png)
+
 **Building Open Media Ecologies:**
 
 Open media ecologies come with a heightened degree of responsibility. The potential for cultural development offered by OMEs is directly tied to assuming greater responsibility in media maintenance, addressing the basic needs of public participants, and ensuring the economic sustainability of freely available projects. Therefore, the question is not whether OMEs can exist, but rather: 
