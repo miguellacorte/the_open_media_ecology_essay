@@ -39,7 +39,7 @@ Being with the unknown is hence, being by surrendering, or rather, being by *not
 
 It is at this moment, that a culture of open creation is born. When the seeds of cultural surrendering begin to exist parallel to the seeds of cultural control, we can begin to harvest an open society. 
 
-** * **
+** Building Open Media Ecologies**
 
 Open media ecologies come with a heightened degree of responsibility. The potential for cultural development offered by OMEs is directly tied to assuming greater responsibility in media maintenance, addressing the basic needs of public participants, and ensuring the economic sustainability of freely available projects. Therefore, the question is not whether OMEs can exist, but rather: 
 
@@ -121,7 +121,7 @@ Please note that the above references are for informational purposes and to prov
 
 ---
 
-## **Composing participation: tools, methods and processes.**
+<a id="cp"> [## **Composing participation: tools, methods and processes.**]</a>
 
 This repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
 
