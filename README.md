@@ -78,7 +78,7 @@ Equal opportunity is a utopia within societies dominated by competitive markets;
 <a id="10">[10]</a> Lessig, L. (2004). Free culture. Penguin Books. (xiv preface): “The opposite of a free culture is a ‘permission culture.’ A culture in which creators get to create only with the permission of the powerful, or of creators from the past.”
 
 <a id="11">[11]</a> Manovich Lev. 2001. The Language of New Media. Cambridge Mass: MIT Press.
-The more likely reason why modern media has discrete levels is because it emerges during Industrial Revolution. In the nineteenth century, a new organization of production known as the factory system gradually replaced artisan labor. It reached its classical form when Henry Ford installed the first assembly line in his factory in 1913. The assembly line relied on two principles. The first was the standardization of parts, already employed in the production of military uniforms in the nineteenth century. The second, the never principle, was the separation of the production process into a set of repetitive, sequential, and simple activities that could be executed by workers who did not have to master the entire process and could be easily replaced. Not surprisingly, modern media follows the factory logic, not only in terms of the division of labor as witnessed in Hollywood film studios, animation studios, or television production, but also on the level of its material organization.”
+*"The more likely reason why modern media has discrete levels is because it emerges during Industrial Revolution. In the nineteenth century, a new organization of production known as the factory system gradually replaced artisan labor. It reached its classical form when Henry Ford installed the first assembly line in his factory in 1913. The assembly line relied on two principles. The first was the standardization of parts, already employed in the production of military uniforms in the nineteenth century. The second, the never principle, was the separation of the production process into a set of repetitive, sequential, and simple activities that could be executed by workers who did not have to master the entire process and could be easily replaced. Not surprisingly, modern media follows the factory logic, not only in terms of the division of labor as witnessed in Hollywood film studios, animation studios, or television production, but also on the level of its material organization.”*
 
 <a id="12">[12]</a> (n.d.). Brian Eno: Composers as Gardeners. Edge.org. Sunday, October 16, 2011. The Serpentine Gallery Garden Marathon, organized by Hans Ulrich Obrist. Within his lecture, Brian Eno stated:
 "we have to stop thinking of top-down control as being the only way in which things could be made"
@@ -98,7 +98,7 @@ According to Ashby, if the regulating system has less variety than the system it
 <a id="16">[16]</a> Beck, U. (1992). Risk society: Towards a new modernity. Sage.
 
 <a id="17">[17]</a> Huybrechts, L. (2014) Participation is risky.
-*"Participatory projects are in essence always uncertain. They rely heavily on the input from other participants. This contrasts witht he makers' urge to control the participatory process and its outcome"*
+*"Participatory projects are in essence always uncertain. They rely heavily on the input from other participants. This contrasts with the makers' urge to control the participatory process and its outcome"*
 
 <a id="18">[18]</a> Mark, G. (2023). *Attention span*. New York, NY: HarperCollins: 
 Gloria Mark, a professor of information science at the University of California, Irvine, and the author of the book "Attention Span," began studying computer usage patterns in 2004. Initially, people spent an average of 2.5 minutes on a single screen. However, in 2012, Mark and her colleagues discovered that the average time dedicated to a single task had decreased to 75 seconds. Presently, the average time has further declined to approximately 47 seconds.
@@ -128,3 +128,7 @@ Please note that the above references are for informational purposes and to prov
 ---
 
 ## Contributors
+
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Open Media Ecology</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/miguellacorte/the_open_media_ecology_essay/" property="cc:attributionName" rel="cc:attributionURL">Miguel La Corte</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/miguellacorte/the_open_media_ecology_essay/" rel="dct:source">https://github.com/miguellacorte/the_open_media_ecology_essay/</a>.
