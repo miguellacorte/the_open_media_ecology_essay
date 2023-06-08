@@ -112,8 +112,6 @@ Gloria Mark, a professor of information science at the University of California,
 
 Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
     
----
-
 ## **Writing Extensions**
 
 - [Participative Audio Lab vision: harvesting a culture of open creation through music.](https://www.participativeaudiolab.com/) 
@@ -123,7 +121,7 @@ Please note that the above references are for informational purposes and to prov
 
  ## **Composing participation: tools, methods and processes.**
 
-<a id="cp">[This section]</a> of the repository repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
+<a id="cp">This section</a> of the repository repository aims to serve as a public compilation of methods and tools for handling and composing ethically and ecologically sustainable participative experiences. Please feel free to provide your own. If you want to participate yet don't know how to use gitHub follow [this guide](https://www.edureka.co/blog/how-to-use-github/).
 
 - [MAP-it](http://www.map-it.be/about): created by [Social Spaces research group](http://www.socialspaces.be/) “ MAP-it is a tool for participatory cartography and conversation. It's a low-tech mapping tool that allows you to debrief past projects, manage current ones and plan future activities.”
 - [Create an Architecture of Participation for your Open Source project](https://blog.weareopen.coop/howto-create-an-architecture-of-participation-for-your-open-source-project-a38386c69fa5): A practical look into the development process of Greenpeace’s “Plant 4” online architecture of participation.
