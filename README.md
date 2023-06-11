@@ -4,7 +4,7 @@ This repository presents Open Media Ecologies (OMEs) as a form of reference, ref
 
 You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies.
 
-This text was written within the context of [2023 Cultures d'Avenir](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) program hosted by [Centre Pompidou](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) in Paris, [Haus der Kulturen der Welt](https://www.hkw.de/) in Berlin, [CCCB](https://www.cccb.org/en/activities/file/cultures-davenir-2023/240411) in Barcelona, and thanks to the funding and support from the [Franco-German Youth Office (FGYO)](https://www.dfjw.org/meldungen/cultures-d-avenir-2023-auf-ein-neues.html)
+This text was written within the context of [2023 Cultures d'Avenir](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) program hosted by [Centre Pompidou](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) in Paris, [Haus der Kulturen der Welt](https://www.hkw.de/) in Berlin, [CCCB](https://www.cccb.org/en/activities/file/cultures-davenir-2023/240411) in Barcelona, and thanks to the funding and support from the [Franco-German Youth Office (FGYO)](https://www.dfjw.org/meldungen/cultures-d-avenir-2023-auf-ein-neues.html).
 
 ## **Defining Open Media ecologies**
 
