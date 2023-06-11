@@ -2,7 +2,9 @@
 
 This repository presents Open Media Ecologies (OMEs) as a form of reference, reflection and ignition towards the development of new sustainable media structures in the anthropocene.
 
-You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies
+You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies.
+
+This text was written within the context of [Cultures d'Avenir program](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023)
 
 ## **Defining Open Media ecologies**
 
