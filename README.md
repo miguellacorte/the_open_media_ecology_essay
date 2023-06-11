@@ -4,7 +4,7 @@ This repository presents Open Media Ecologies (OMEs) as a form of reference, ref
 
 You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable participatory structures and nurturing open media ecologies.
 
-This text was written within the context of [Cultures d'Avenir program](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023)
+This text was written within the context of [2023 Cultures d'Avenir ](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) program.
 
 ## **Defining Open Media ecologies**
 
