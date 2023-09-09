@@ -12,7 +12,7 @@ This text was written within the context of [2023 Cultures d'Avenir](https://www
 
 An **Open Media Ecology (OME)** refers to any form of culture that has been deliberately conceived to enable and promote public participation within: 1. The creative process that defines the content of a specific media instance, as well as 2. The infrastructure responsible for its maintenance and distribution. 
 
-![OMEs](https://github.com/miguellacorte/open_media_ecologies_essay/blob/4b88ac7b70f00c27c1df828093d188607565b6b6/Group%2037.png)
+![OMEs diagram](https://github.com/miguellacorte/open_media_ecologies_essay/blob/4b88ac7b70f00c27c1df828093d188607565b6b6/Group%2037.png)
 
 In essence, an OME refers to any cultural structure which is actively conceived through Open creative processes within Open source distribution infrastructure:
 
