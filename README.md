@@ -12,6 +12,8 @@ This text was written within the context of [2023 Cultures d'Avenir](https://www
 
 An **Open Media Ecology (OME)** refers to any form of culture that has been deliberately conceived to enable and promote public participation within: 1. The creative process that defines the content of a specific media instance, as well as 2. The infrastructure responsible for its maintenance and distribution. 
 
+![OMEs](https://github.com/miguellacorte/open_media_ecologies_essay/blob/4b88ac7b70f00c27c1df828093d188607565b6b6/Group%2037.png)
+
 In essence, an OME refers to any cultural structure which is actively conceived through Open creative processes within Open source distribution infrastructure:
 
 - Open creative processes: All (or at least a considerable part of) the content, elements, and variables that define a media composition exist as open functions; The receiver is thus stimulated to engage in a sensory conversation that relies upon their unique conditioning and creative will [[1]](#1). The work’s range of possibilities is directly proportional to the public’s willingness to change these. This stands in contrast to a closed creative process, where media is actively conceived by a predefined composer and passively consumed by the public, which although is able to reinterpret the work, there is no active invitation for *recreation*, due to the medium’s impeding ability to interact with the defining elements of the composition (unless through an intervention e.g., sampling).
