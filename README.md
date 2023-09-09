@@ -1,8 +1,11 @@
 # Open Media Ecologies: networks of cultural adaptation. 
 
-This repository presents Open Media Ecologies (OMEs) as a form of reference, reflection and ignition towards the development of new sustainable media structures in the anthropocene.
+How can we create a media network where the process of creation is organically distributed amongst all entities, rather than a binary division between the creator and the receiver? 
 
+In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative cultural structure where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
+After presenting an example of an OME, common challenges and responsibilities of building OMEs are explained. 
 
+After more than a century of societal development through the advent of industrial systems, a re-definition and re-structuring of our means and understanding of what it means to create is now more urgent than ever. 
 
 You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable open media structures.
 
@@ -12,18 +15,18 @@ This text was written within the context of [2023 Cultures d'Avenir](https://www
 
 An **Open Media Ecology (OME)** refers to any form of culture that has been deliberately conceived to enable and promote public participation within: 1. The creative process that defines the content of a specific media instance, as well as 2. The infrastructure responsible for its maintenance and distribution. 
 
+In essence, an OME refers to any cultural structure which is actively conceived through Open creative processes within Open source distribution infrastructure:
+
 <p align="center">
   <img src="https://github.com/miguellacorte/open_media_ecologies_essay/blob/4b88ac7b70f00c27c1df828093d188607565b6b6/Group%2037.png">
 </p>
 
-In essence, an OME refers to any cultural structure which is actively conceived through Open creative processes within Open source distribution infrastructure:
-
 - Open creative processes: All (or at least a considerable part of) the content, elements, and variables that define a media composition exist as open functions; The receiver is thus stimulated to engage in a sensory conversation that relies upon their unique conditioning and creative will [[1]](#1). The work’s range of possibilities is directly proportional to the public’s willingness to change these. This stands in contrast to a closed creative process, where media is actively conceived by a predefined composer and passively consumed by the public, which although is able to reinterpret the work, there is no active invitation for *recreation*, due to the medium’s impeding ability to interact with the defining elements of the composition (unless through an intervention e.g., sampling).
     
-- Open source distribution infrastructure: all elements which structurally maintain the cultural experience are open source[[2]](#2) and thus open for public adaptation. The public has the opportunity and responsibility[[3]](#3)[[4]](#4) to participate in shaping and modifying the distribution infrastructure. Within an open source media network, all individuals hold potential in determining all maintenance variables, for example: how information is shared, goals and policies are set, tax resources are allocated, programs are operated, and benefits such as contracts and patronage are distributed. In the case of individual works, open source distribution infrastructure ensures for free public accessibility and recreateability of the work, independently from the revenue structure and licensing which the composer might choose upon. In regards to collective projects open source distribution presents significant potential for public adaptation. However, it is important to reiterate that the aim to hold for public adaptation processes must be sustained with the necessary infrastructure of participation. This tends to include: governance structure for consensus achievement, systems of mediation and conflict resolution, and perhaps above all, a strong set of values and core rules which establish an ethical working structure. It is here where the potential open source distribution infrastructure is set; within carefully established maintenance and ethical structures the distribution system becomes and an adaptive entity able to respond and change to their immediate socio ecological environment [[5]](#5).  OMEs thus propose an alternative in comparison to modern closed media platforms in which distribution is often governed by economically-driven decisions and, institutions that are plagued by conflicts of interest due to their top-down hierarchies and convoluted heritage systems.
+- Open source distribution infrastructure: all elements which structurally maintain the cultural experience are open source[[2]](#2) and thus open for public adaptation. The public has the opportunity and responsibility[[3]](#3)[[4]](#4) to participate in shaping and modifying the distribution infrastructure. Within an open source media network, all individuals hold potential in determining all maintenance variables, for example: how information is shared, goals and policies are set, tax resources are allocated, programs are operated, and benefits such as contracts and patronage are distributed. In the case of individual works, open source distribution infrastructure ensures for free public accessibility and recreate-ability of the work, independently from the revenue structure and licensing which the composer might choose upon. In regards to collective projects open source distribution presents significant potential for public adaptation. However, it is important to reiterate that the aim to hold for public adaptation processes must be sustained with the necessary infrastructure of participation. This tends to include: governance structure for consensus achievement, systems of mediation and conflict resolution, and perhaps above all, a strong set of values and core rules which establish an ethical working structure. It is here where the potential open source distribution infrastructure is set; within carefully established maintenance and ethical structures the distribution system becomes and an adaptive entity able to respond and change to their immediate socio ecological environment [[5]](#5).  OMEs thus propose an alternative in comparison to modern closed media platforms in which distribution is often governed by economically-driven decisions and institutions that are plagued by conflicts of interest due to their top-down hierarchies and convoluted heritage systems.
 
 Through the combination of open source distribution and open creative processes a new open cultural structure can be created where the value (economical, aesthethical or ethical) of the given distributed cultural item is inherently extended to the receiver, thus converting this entity also into a cultural capacitor which is able to produce and extend his potential of perception. [[6]](#6) 
-It is thus of core importance for the integrity of the OME that these two qualities remain interdependent. Open creative processes without open source distribution infrastructure risks of acquisitve models which turn the participative potential of open creative processes into extractive products[[7]](#7). Parallel to this, a project with open source distribution without open creative processes risks of centralized value, e.g. "web 2.0" scheme[[8]](#8).   
+It is thus of core importance for the integrity of the OME that these two qualities remain interdependent. Open creative processes without open source distribution infrastructure risks of acquisitive models which turn the participative potential of open creative processes into extractive products[[7]](#7). Parallel to this, a project with open source distribution without open creative processes risks of centralized value, e.g. "web 2.0" scheme[[8]](#8).   
 
 
 
@@ -140,8 +143,10 @@ A collection of works that extend the vision of Open Media Ecologies:
 
 ## Contributors
 
-All wrting by Miguel La Corte
+All writing by Miguel La Corte
 
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Open Media Ecology</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/miguellacorte/the_open_media_ecology_essay/" property="cc:attributionName" rel="cc:attributionURL">Miguel La Corte</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/miguellacorte/the_open_media_ecology_essay/" rel="dct:source">https://github.com/miguellacorte/the_open_media_ecology_essay/</a>.
+
+
