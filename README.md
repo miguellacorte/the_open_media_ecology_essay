@@ -3,9 +3,14 @@
 How can we create a media network where the process of creation is organically distributed amongst all entities, rather than a binary division between the creator and the receiver? 
 
 In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative cultural structure where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
-After presenting an example of an OME, common challenges and responsibilities of building OMEs are explained. 
 
-After more than a century of societal development through the advent of industrial systems, a re-definition and re-structuring of our means and understanding of what it means to create is now more urgent than ever. 
+Given the profound impact that industrialization has had on our societal structures, modes of production, and consumption habits, it is crucial to redefine our relationship with creation and distribution. While industrialization brought about unprecedented advancements in technology, medicine, and various other sectors, it also established a paradigm where creation became increasingly centralized, leading to a dichotomy between creators and consumers. This dichotomy has resulted in a passive culture, largely driven by closed-control platforms, where the audience is distanced from the act of creation and its ethical implications.
+
+Furthermore, the traditional industrial model is characterized by its emphasis on mass production and consumption, often sidelining the nuanced, diverse needs of individuals and communities. This not only stymies creativity and innovation but also promotes a culture of disposability, contributing to numerous environmental and social challenges.
+
+In such a scenario, the need to decentralize and democratize the act of creation is not just a matter of promoting creativity; it's an essential step towards building a sustainable, inclusive future. By fostering Open Media Ecologies (OMEs), we can succesfully blur the boundaries between creators and consumers, making the act of creation a collective endeavor. 
+
+Moreover, by emphasizing open creative processes within open-source distribution infrastructures, we ensure that the creative outputs are not just accessible but also adaptable to the ever-evolving needs of societies. This fluidity is pivotal in ensuring the sustainability of cultural outputs, as it allows for constant evolution and adaptation, unlike the rigid structures established by industrialized models.
 
 You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable open media structures.
 
