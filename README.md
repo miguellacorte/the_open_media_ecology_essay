@@ -57,7 +57,7 @@ It is at this moment, that a culture of open creation is born. When the seeds of
 
 ![OMEs](https://github.com/miguellacorte/the_open_media_ecology_essay/blob/1591f673575d565af156ffd2a4a924bb9f17a799/OME.png)
 
-**Building Open Media Ecologies:**
+## Building Open Media Ecologies:
 
 Open media ecologies come with a heightened degree of responsibility. The potential for cultural development offered by OMEs is directly tied to assuming greater responsibility in media maintenance, addressing the basic needs of public participants, and ensuring the economic sustainability of freely available projects. Therefore, the question is not whether OMEs can exist, but rather: 
 
@@ -65,7 +65,7 @@ Open media ecologies come with a heightened degree of responsibility. The potent
 
 As a form of example and test, this repository presents itself as a proto-open media ecology; It serves as a public collaborative space to explore and refine approaches that contribute to the growth and sustainability of open media ecologies. All contributions and participations are welcome by adding/editing/deleting within the “Composing Participation” section, or alternatively feel free to propose any change beyond the standard structure hereby presented.  
 
-**Notes and References:**
+### Notes and References:
 
 <a id="1">[1]</a> Eco, U. (1989). The open work. Harvard University Press.
 
