@@ -123,10 +123,12 @@ Gloria Mark, a professor of information science at the University of California,
 
 <a id="19">[19]</a> Lash, Scott (2000). Risk culture. In Barbara Adam, Ulrich Beck & Joost van Loon (eds.), The Risk Society and Beyond: Critical Issues for Social Theory. Sage Publications. pp. 47--62. 
 
----
+
 
 Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
-    
+
+---
+  
 ## **Writing Extensions**
 A collection of works that extend the vision of Open Media Ecologies:
 
