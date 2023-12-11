@@ -57,7 +57,7 @@ It is at this moment, that a culture of open creation is born. When the seeds of
 
 ![OMEs](https://github.com/miguellacorte/the_open_media_ecology_essay/blob/1591f673575d565af156ffd2a4a924bb9f17a799/OME.png)
 
-## Building Open Media Ecologies:
+# Building Open Media Ecologies:
 
 Open media ecologies come with a heightened degree of responsibility. The potential for cultural development offered by OMEs is directly tied to assuming greater responsibility in media maintenance, addressing the basic needs of public participants, and ensuring the economic sustainability of freely available projects. Therefore, the question is not whether OMEs can exist, but rather: 
 
