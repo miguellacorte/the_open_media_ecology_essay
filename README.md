@@ -65,7 +65,7 @@ Open media ecologies come with a heightened degree of responsibility. The potent
 
 As a form of example and test, this repository presents itself as a proto-open media ecology; It serves as a public collaborative space to explore and refine approaches that contribute to the growth and sustainability of open media ecologies. All contributions and participations are welcome by adding/editing/deleting within the “Composing Participation” section, or alternatively feel free to propose any change beyond the standard structure hereby presented.  
 
-### Notes and References:
+# Notes and References:
 
 <a id="1">[1]</a> Eco, U. (1989). The open work. Harvard University Press.
 
