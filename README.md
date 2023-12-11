@@ -123,7 +123,7 @@ Gloria Mark, a professor of information science at the University of California,
 
 <a id="19">[19]</a> Lash, Scott (2000). Risk culture. In Barbara Adam, Ulrich Beck & Joost van Loon (eds.), The Risk Society and Beyond: Critical Issues for Social Theory. Sage Publications. pp. 47--62. 
 
-
+---
 
 Please note that the above references are for informational purposes and to provide additional context to the points discussed. It is always advisable to refer to the original sources for a more comprehensive understanding of the concepts.
     
@@ -133,7 +133,7 @@ A collection of works that extend the vision of Open Media Ecologies:
 - [Participative Audio Lab vision: harvesting a culture of open creation through music.](https://www.participativeaudiolab.com/) 
 - [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise any project. Wether it's an art project or a open source community, he describes the importance of creating systems which have been designed for a potential of adaptability within ts respective environments. 
 
----
+
 
  ## **Composing participation: tools, methods and processes.**
 
@@ -144,7 +144,7 @@ A collection of works that extend the vision of Open Media Ecologies:
 - Open Source Guides | [Learn how to launch and grow your project.](https://opensource.guide/)
 
 
----
+
 
 ## Contributors
 
