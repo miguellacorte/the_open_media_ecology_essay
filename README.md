@@ -133,7 +133,7 @@ Please note that the above references are for informational purposes and to prov
 A collection of works that extend the vision of Open Media Ecologies:
 
 - [Participative Audio Lab vision: harvesting a culture of open creation through music.](https://www.participativeaudiolab.com/) 
-- [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise any project. Wether it's an art project or a open source community, he describes the importance of creating systems which have been designed for a potential of adaptability within ts respective environments. 
+- [Incompleteness Is a Feature Not a Bug (in Max/MSP/Jitter) - David Zicarelli - ADC22:](https://www.youtube.com/watch?v=LMiFmF5JH1g) David Zacarelli talks within this keynote about Perceptual Control Theory as a fundamental premise in any project. Wether it's an art project or a open source community, he describes the importance of creating systems which have been designed for a potential of adaptability within its respective environments. 
 
 
 
