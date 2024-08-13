@@ -2,7 +2,7 @@
 
 How can we create a media ecology where the process of creation is inherently distributed amongst all entities involved, rather than a binary division between the creator and the receiver? 
 
-In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative cultural structure where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
+In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative form of cultural production; one where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
 
 Given the profound impact that industrialization has had on our societal structures, modes of production, and consumption habits, it is crucial to redefine our relationship with creation and distribution. While industrialization brought about unprecedented advancements in technology, medicine, and various other sectors, it also established a paradigm where creation became increasingly centralized, leading to a dichotomy between creators and consumers. This dichotomy has resulted in a passive culture, largely driven by closed-control platforms, where the audience is distanced from the act of creation and its ethical implications.
 
