@@ -1,6 +1,6 @@
 # Open Media Ecologies: networks of cultural adaptation. 
 
-How can we create a media network where the process of creation is organically distributed amongst all entities, rather than a binary division between the creator and the receiver? 
+How can we create a media ecology where the process of creation is inherently distributed amongst all entities involved, rather than a binary division between the creator and the receiver? 
 
 In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative cultural structure where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
 
