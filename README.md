@@ -1,19 +1,5 @@
 # Open Media Ecologies: networks of cultural adaptation. 
 
-How can we create a media ecology where the process of creation is inherently distributed amongst all entities involved, rather than a binary division between the creator and the receiver? 
-
-In a cultural landscape dominated by closed-control platforms, this repository aims to present Open Media Ecologies (OMEs) as an alternative form of cultural production; one where the approach to the creative process is essentially shared and open in all phases of the media experience including its distribution. 
-
-Given the profound impact that industrialization has had on our societal structures, modes of production, and consumption habits, it is crucial to redefine our relationship with creation and distribution. While industrialization brought about unprecedented advancements in technology, medicine, and various other sectors, it also established a paradigm in which creation became inherently centralized, leading to a dichotomy between creators and consumers. This dichotomy has resulted in a passive culture, largely driven by closed-control platforms, where the audience is increasingly alienated from the act of creation and its ethical implications.
-
-Furthermore, the traditional industrial model is characterized by its emphasis on mass production and consumption, often sidelining the nuanced, diverse needs of individuals and communities. This not only stymies creativity and innovation but also promotes a culture of disposability, contributing to numerous environmental and social challenges.
-
-In such a scenario, the need to decentralize and democratize the act of creation is not just a matter of promoting creativity; it's an essential step towards building a sustainable, inclusive future. By fostering Open Media Ecologies (OMEs), we can succesfully blur the boundaries between creators and consumers, making the act of creation a collective endeavor. 
-
-Moreover, by emphasizing open creative processes within open-source distribution infrastructures, we ensure that the creative outputs are not just accessible but also adaptable to the ever-evolving needs of societies. This fluidity is pivotal in ensuring the sustainability of cultural outputs, as it allows for constant evolution and adaptation, unlike the rigid structures established by industrialized models.
-
-You are invited to contribute by submitting any additions and deletions to the defining essay or, ideally, to the ["Composing participation"](#cp) compilation; this section offers practical guides, tools, and methods for developing sustainable open media structures.
-
 This text was written within the context of [2023 Cultures d'Avenir](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) program hosted by [Centre Pompidou](https://www.centrepompidou.fr/en/offer-to-professionals/cultures-davenir/cultures-davenir-2022-2023) in Paris, [Haus der Kulturen der Welt](https://www.hkw.de/) in Berlin, [CCCB](https://www.cccb.org/en/activities/file/cultures-davenir-2023/240411) in Barcelona, and thanks to the funding and support from the [Franco-German Youth Office (FGYO)](https://www.dfjw.org/meldungen/cultures-d-avenir-2023-auf-ein-neues.html).
 
 ## **Defining Open Media ecologies**
